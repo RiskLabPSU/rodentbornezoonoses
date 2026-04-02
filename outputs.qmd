@@ -1,0 +1,18 @@
+---
+title: "Workshop Outputs"
+---
+
+The primary objective of the RBZD workshops is to synthesise interdisciplinary expertise into actionable frameworks for disease control and future research.
+
+## Key Publications
+
+**Reducing the threats of rodent-borne zoonoses requires an understanding and leveraging of three key pillars: disease ecology, synanthropy, and rodentation** *Friant S, Mistrick J, Luis AD, Harden C, Simons D, Fichet-Calvet E, Gibb R, Grube N, Henttonen H, Imirizian N, Moses L, Perry GH, Redding D, Stenseth NC, Vandegrift K, Bjornstad ON, Dobson A, Lloyd-Smith JO, Hudson PJ.* This consensus paper, generated from the inaugural RBZD workshop, argues that proactive spillover prevention requires an integrated socioecological approach, moving beyond reactive biomedical interventions. 
+
+### The Three Pillars of Emergence
+The publication establishes a novel framework outlining the three primary drivers of rodent-borne zoonoses:
+
+1.  **Rodent Disease Ecology:** The intrinsic biological traits of rodents—such as high reproductive potential and resulting multi-annual population cycles—that make them highly successful reservoir hosts and drivers of rapid pathogen transmission.
+2.  **Synanthropy:** The historical and ongoing tendency for certain rodent species to live in close proximity to humans, creating persistent interfaces for direct and indirect pathogen exposure through housing, agriculture, and cultural practices.
+3.  **Rodentation:** The ecological proliferation of synanthropic rodents driven by anthropogenic landscape alteration, resource provisioning, and the extirpation of natural predators. 
+
+By leveraging these three pillars, the group advocates for socially and ecologically grounded countermeasures—such as ecological habitat management and community-led behavioural adaptation—to reduce the burden of rodent-borne diseases.

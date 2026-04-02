@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "RBZD Workshop"
+  site-url: "https://rbzd.org"
+  description: "The Annual Rodent-Borne Zoonotic Disease Workshop"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: "Years"
+        menu:
+          - href: years/2026.qmd
+            text: "2026"
+          - href: years/2025.qmd
+            text: "2025"
+          - href: years/2024.qmd
+            text: "2024"
+          - href: years/2023.qmd
+            text: "2023"
+      - href: about.qmd
+        text: "About"
+      - href: outputs.qmd
+        text: "Outputs"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-depth: 2

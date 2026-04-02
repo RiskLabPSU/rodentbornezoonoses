@@ -1,0 +1,58 @@
+---
+title: "2025 Workshop: Paneveggio, Italy"
+---
+
+## Overview
+
+Hosted by the Fondazione Edmund Mach (FEM), this workshop focused on issues of scale—from field ecology to policy relevance. The meeting was designed to be highly interactive, with a loose schedule to stimulate discussion and encourage attendees to propose or conjecture new ideas regarding rodent-borne diseases.
+
+* **Dates:** 26 – 28 [Month], 2025
+* **Venue:** Parco Naturale di Paneveggio, Trentino, Italy
+* **Local Host:** Annapaola Rizzoli
+
+## Scientific Programme
+
+### Day 1: Monday, 26th 
+
+* **Arrival & Welcome:** Lunch and introductory walk. Welcome remarks by Annapaola Rizzoli and the Park Director. Workshop introduction by Sagan Friant and Peter Hudson.
+* **Framing Session:** *One Idea - Issues of Scale from field to policy relevance.*
+* **Session 1: Rodent studies & Disease in the Alps**
+  * **Valentina Tagliapietra (FEM):** *25 years of rodent data: a multi-scale approach*
+  * **Sarah Perkins (Cardiff)**
+  * **Giulia Ferrari (FEM)**
+  * **Francesca Dagostin (FEM)**
+  * *Session concluded with a group discussion.*
+
+### Day 2: Tuesday, 27th
+
+* **Session 2: The Ecology of Rodent-Borne Infections: Local Scales**
+  * **Heikki Henttonen:** *Direct transmission: Puumala transmission ecology*
+  * **Janine Mistrick:** *Spatial Overlap and Shedding: Drivers of Puumala hantavirus transmission*
+  * **Peter Hudson:** *Reservoirs - rodents, bats and infections*
+  * **Andy Dobson:** *Models for macroparasites and microbiome*
+  * **Lina Moses:** *Rodent Population Indicators for RBZD Risk Assessment and Response*
+* **10:30 | Coffee & Discussion**
+* **Session 3: Living with rodents: Spillover and Synanthropy**
+  * **Nicola Ferrari:** *15 years of parasitological investigations in Italian squirrels: a quick resume of the trip*
+  * **Sagan Friant:** *Risks from wildmeat*
+  * **Isabella Cattadori:** *Diet-driven bat viral shedding and consequences for pathogen spillover*
+  * **Christina Harden:** *Rats everywhere all at once - Participatory Modelling of Lassa Fever*
+* **13:00 | Lunch and Hike**
+
+### Day 3: Wednesday, 28th
+
+* **Session 4: Scaling ecological research: examples from Lassa and other RBZDs**
+  * **David Redding:** *Climate sensitivity is widespread but uneven across rodent-borne zoonoses*
+  * **David Simons:** *Production and use of an Arenavirus and Hantavirus host-pathogen database*
+  * **Abi Smith:** *Arenavirus specificity in M. natalensis subtaxa: The range edge of Lassa*
+  * **Natalie Imirzian:** *Towards a general rodent-borne disease model*
+  * **Gregory Milne:** *Modelling climate-driven population and infection dynamics of Mastomys natalensis*
+  * **Sagan Friant & Dave Redding:** *Cross Scale Dynamics of Lassa in Human-Driven Ecosystems*
+* **10:30 | Coffee & Discussion**
+* **Session 5: Synthesis**
+  * **Jane Qui:** *Science Communication*
+  * **Peter Hudson:** *Takeaways & Interventions*
+
+## Outputs
+
+The primary outcome of the Paneveggio workshop was the continued strengthening of ongoing collaborative research networks among the international attendees, driving forward interdisciplinary projects across ecology, epidemiology, and anthropology.

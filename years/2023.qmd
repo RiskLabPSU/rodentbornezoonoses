@@ -1,0 +1,43 @@
+---
+title: "2023 Workshop: State College, PA"
+---
+
+## Overview
+
+The inaugural RBZD Workshop was hosted by the Center for Infectious Disease Dynamics (CIDD). The primary goal was to bring together experts to examine commonalities across disease systems and write a synthesis paper on rodent-borne zoonotic spillover.
+
+* **Dates:** 10 – 13 April 2023
+* **Venue:** Millennium Science Complex, The Pennsylvania State University, State College, PA, USA
+
+## Organising Committee
+
+* **Dr. Sagan Friant** (Penn State University)
+* **Christina Harden** (Penn State University)
+* **Prof. Ottar Bjørnstad** (Penn State University)
+* **Kareen Atekem** (Penn State University)
+
+## Scientific Programme
+
+### Day 1: Human Dimensions of RBZD
+
+* **Keynote:** Emerging Rodent Zoonosis: Insights from Community Ecology, Scaling, & Beyond – *Prof. Andy Dobson (Princeton University)*
+* **Session 1:** Rodent-borne zoonotic disease systems and perspectives speed dating 
+* **Session 2:** Macroecological Risk Factors – *Leads: D. Redding, R. Gibb, N. Imirizian*
+* **Session 3:** Intersections of disease ecology, anthropology and communication – *Leads: R. Smith, S. Friant, L. Moses*
+* **Session 4:** Human drivers of rodent ecology and evolution, disease dynamics, and spillover – *Leads: S. Friant, G. Perry, L. Moses, C. Harden, N. Grube*
+
+### Day 2: Interfaces
+
+* **Keynote:** Ecology of Lassa fever in West Africa: spatial, temporal and human risks – *Prof. Elisabeth Fichet-Calvet (Bernhard Nocht Institute for Tropical Medicine)*
+* **Session 5:** Rodent population dynamics, fluctuations, life history effects on spillover risk – *Leads: H. Henttonen, J. Mistrick, K. Vandegrift*
+* **Session 6:** Community Ecology Effects – *Leads: P. Hudson, A. Luis, D. Simons*
+
+### Day 3: Integration
+
+* **Huddle:** Integrative Framework for RBZD research and control
+* **Working Groups:** Breakout sessions and writing exercises focused on synthesising the primary manuscript.
+* **Keynote:** The ecology of plague: a disease of today which changed our history – *Prof. Nils Chr. Stenseth (University of Oslo)*
+
+## Outputs
+
+The primary output of the inaugural workshop was the consensus paper: *Reducing the threats of rodent-borne zoonoses requires an understanding and leveraging of three key pillars: disease ecology, synanthropy, and rodentation* (Lancet Planetary Health, 2025).

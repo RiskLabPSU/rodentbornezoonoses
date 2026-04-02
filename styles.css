@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* 1. Brand Colours */
+/* Override the 'flatly' default teal to a custom institutional hex code */
+.navbar {
+  background-color: #003366 !important; 
+}
+
+/* 2. Readability Constraints */
+/* Prevent text lines from becoming too long on ultra-wide desktop monitors */
+main {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 3. Footer Logo Alignment */
+/* Use CSS Flexbox to align university and funding logos neatly in a row */
+.footer-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap; /* Allows logos to wrap to a new line on mobile devices */
+  gap: 30px;       /* Spacing between logos */
+  margin-top: 15px;
+}
+
+.footer-logos img {
+  max-height: 50px; /* Constrain height so mixed-ratio logos look uniform */
+  width: auto;
+  filter: grayscale(100%); /* Optional: makes logos uniform and less distracting */
+  opacity: 0.7;
+  transition: all 0.3s ease;
+}
+
+/* Optional: Return logos to full colour when a user hovers over them */
+.footer-logos img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}

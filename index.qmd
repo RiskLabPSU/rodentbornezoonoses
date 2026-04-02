@@ -1,0 +1,15 @@
+---
+title: "Annual Rodent-Borne Zoonotic Disease Workshop"
+---
+
+Welcome to the central hub for the RBZD Workshop. 
+
+This annual scientific meeting brings together an international network of ecologists, epidemiologists, anthropologists, and disease modellers. Our focus is to advance a comparative and synthetic approach to the ecology, transmission, and mitigation of rodent-borne pathogens. 
+
+Central to our work is the investigation of the socioecological systems that drive pathogen spillover, guided by the three pillars of emergence: **disease ecology, synanthropy, and rodentation**.
+
+## Upcoming Event
+
+The next workshop will be held in **Kilpisjärvi, Finland** in **17 – 21 June 2026**. 
+
+[View the 2026 Programme &rarr;](years/2026.qmd)
