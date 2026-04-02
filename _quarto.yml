@@ -3,7 +3,7 @@ project:
 
 website:
   title: "RBZD Workshop"
-  site-url: "https://rbzd.org"
+  #site-url: "https://rbzd.org"
   description: "The Annual Rodent-Borne Zoonotic Disease Workshop"
   navbar:
     left:
