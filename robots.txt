@@ -1,1 +1,1 @@
-Sitemap: https://rbzd.org/sitemap.xml
+Sitemap: https://RiskLabPSU.github.io/rodentbornezoonoses/sitemap.xml
