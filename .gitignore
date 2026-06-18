@@ -51,3 +51,5 @@ rsconnect/
 /.quarto/
 
 *.Rproj
+
+/misc
